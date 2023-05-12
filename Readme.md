@@ -1,4 +1,4 @@
-# Freedom GPT
+`# Freedom GPT
 
 ![GitHub license](https://img.shields.io/badge/license-GNU-blue.svg)
 
